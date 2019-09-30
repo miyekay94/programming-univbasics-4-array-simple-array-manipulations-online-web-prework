@@ -1,8 +1,9 @@
         ## Perform Simple Array Manipulations
 fruit = ["apples","bananas","grapes","oranges"]
-### `using_push`
-fruit.push
 
+### `using_push`
+fruit = ["apples","bananas","grapes","oranges"]
+new
 ### `using_unshift`
 fruit.unshift
 
