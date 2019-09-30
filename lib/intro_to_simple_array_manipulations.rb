@@ -4,7 +4,7 @@ fruit = ["apples","bananas","grapes","oranges"]
 ### `using_push`
 fruit = ["apples","bananas","grapes","oranges"]
 next_fruit = pear
-
+updated_array
 
 ### `using_unshift`
 fruit.unshift
