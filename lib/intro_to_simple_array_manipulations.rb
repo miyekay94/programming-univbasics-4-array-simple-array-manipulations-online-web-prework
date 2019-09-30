@@ -13,7 +13,7 @@ end
 fruit = ["apples","bananas","grapes","oranges"]
 
 next_fruit = pear
-updated_array = using_push(fruit, next_fruit)
+updated_array = using_unshift (fruit, next_fruit)
 expect(updated_array.last).to = (next_fruit)
 
 
