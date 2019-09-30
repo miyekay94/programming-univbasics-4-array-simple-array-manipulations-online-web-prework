@@ -14,11 +14,10 @@ fruit = ["apples","bananas","grapes","oranges"]
 
 next_fruit = pear
 updated_array = using_unshift (fruit, next_fruit)
-expect(updated_array.last).to = (next_fruit)
-
+end
 
 ### `using_pop`
-fruit.pop
+
 
 ### `pop_with_args`
 fruit.pop[2]
