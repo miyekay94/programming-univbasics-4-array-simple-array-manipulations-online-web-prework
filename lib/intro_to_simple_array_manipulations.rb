@@ -17,7 +17,9 @@ updated_array = using_unshift (fruit, next_fruit)
 end
 
 ### `using_pop`
+ruit = ["apples","bananas","grapes","oranges"]
 
+next_fruit = pear
 
 ### `pop_with_args`
 fruit.pop[2]
