@@ -3,7 +3,9 @@ fruit = ["apples","bananas","grapes","oranges"]
 
 ### `using_push`
 fruit = ["apples","bananas","grapes","oranges"]
-next_fruit=
+next_fruit = pear
+
+
 ### `using_unshift`
 fruit.unshift
 
