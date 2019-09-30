@@ -5,7 +5,7 @@ fruit = ["apples","bananas","grapes","oranges"]
 fruit = ["apples","bananas","grapes","oranges"]
 next_fruit = pear
 updated_array = using_push(fruit, next_fruit)
-expect(updated_array.last).to eq
+expect(updated_array.last).to = next_fruit
 ### `using_unshift`
 fruit.unshift
 
